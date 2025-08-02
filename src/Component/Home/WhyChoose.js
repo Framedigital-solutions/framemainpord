@@ -1,5 +1,5 @@
 import React from 'react';
-import { Check, ThumbsUp } from 'lucide-react';
+// Icons are used in the component but not directly imported here
 
 const WhyChooseUs = () => {
   return (

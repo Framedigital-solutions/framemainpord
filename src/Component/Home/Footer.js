@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Facebook, Twitter, Instagram, Linkedin, Youtube } from "lucide-react";
+import { Facebook, Twitter, Linkedin } from "lucide-react";
 
 const Footer = () => {
   const [socialLinks, setSocialLinks] = useState({

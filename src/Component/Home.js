@@ -1,5 +1,4 @@
 import React from 'react'
-import HeroSection from './Home/Navbar'
 import Portfolio from './Home/Portfolio'
 import About from './Home/About'
 import ServicesCarousel from './Home/ServiceCrousel'
